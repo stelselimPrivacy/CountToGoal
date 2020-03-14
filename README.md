@@ -1,2 +1,2 @@
 # CountToGoal
-Support URL for Mobile Apps
+Support URL for Mobile Apps, iOS and Android
